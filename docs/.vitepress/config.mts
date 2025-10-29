@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/ykgw-daiki-nakamura/',
+  base: '/ykgw-daiki-nakamura.github.io/',
   title: "Developer Guideline",
   description: "Developer Guideline",
   themeConfig: {
